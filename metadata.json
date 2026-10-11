@@ -1,0 +1,7 @@
+{
+  "name": "EduPilot AI - CBSE Academic OS",
+  "description": "Admission Assistant & CRM Pipeline for CBSE schools with autonomous RAG WebBot, lead matrix, grounding base, counsellor templates, and tour scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
